@@ -3,6 +3,8 @@
 This repo demonstrates how to start using Jest using esnode-jest. esnode-jest as the most minimal implementation needed
 to connect Jest to esbuild.
 
+Original [esnode-jest](https://github.com/zaydek/esnode-jest) repo here. This repo simply provides a starter example.
+
 ## Installation
 
 ```sh
