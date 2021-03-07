@@ -32,10 +32,10 @@ looks like this, so you may use this instead or customize for your use case.
 ```js
 // https://jestjs.io/docs/en/getting-started#using-typescript
 module.exports = {
-	presets: [
-		["@babel/preset-env", { targets: { node: "current" } }],
-		"@babel/preset-typescript",
-	],
+  presets: [
+    ["@babel/preset-env", { targets: { node: "current" } }],
+    "@babel/preset-typescript",
+  ],
 }
 ```
 
